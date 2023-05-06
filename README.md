@@ -8,7 +8,7 @@ Guide to install forge and the mods:
 
 2. Once the Forge installer is downloaded, double-click on the file to open it. Choose "Install client" and click "OK". Forge will install and create a new profile in the Minecraft Launcher.
 
-3. Download the mods you want to use from a trusted source, such as CurseForge or the Minecraft Forums. Make sure they are compatible with Forge 1.8.9.
+3. Download the mods you want to use from the github.
 
 4. After downloading the mods, they will usually be in a .zip or .jar file format. You will need to extract the files from the archive. Right-click on the zip file and select "Extract All" or use a program like 7-Zip or WinRAR to extract the files.
 
