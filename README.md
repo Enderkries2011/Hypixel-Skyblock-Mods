@@ -3,6 +3,27 @@
 A easy to use guide to install skyblock mods and the best mods (BenC1ark's mod: https://www.youtube.com/watch?v=S0Bsnw9wNXk those are the same mods as in the list)
 I also added some of my own mods (Skyclient-updater / apec / crashpatch / danker skyblock mods / optifine / dungeons rooms mod (note: these are not included in the all mods zip seperate download))
 
+Guide to install forge and the mods:
+1. Download Forge 1.8.9 from the official website: https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html. Click on the "Download Recommended" button to download the latest version of Forge 1.8.9.
+
+2. Once the Forge installer is downloaded, double-click on the file to open it. Choose "Install client" and click "OK". Forge will install and create a new profile in the Minecraft Launcher.
+
+3. Download the mods you want to use from a trusted source, such as CurseForge or the Minecraft Forums. Make sure they are compatible with Forge 1.8.9.
+
+4. After downloading the mods, they will usually be in a .zip or .jar file format. You will need to extract the files from the archive. Right-click on the zip file and select "Extract All" or use a program like 7-Zip or WinRAR to extract the files.
+
+5. Once the files are extracted, go to your Minecraft folder.
+    Windows: Press the Windows key + R and type in "%appdata%.minecraft" (without quotes) and press Enter.
+    Mac: Open Finder, click on "Go" in the top menu, then "Go to Folder" and type in "~/Library/Application Support/minecraft" (without quotes) and press Enter.
+
+6. In the Minecraft folder, look for a folder called "mods". If it doesn't exist, create a new folder called "mods".
+
+7. Copy the extracted mod files and paste them into the "mods" folder.
+Optional:
+1. If you have downloaded the OneCore mod, unzip the file and drag the resulting folder into the .minecraft folder.
+
+2. Start Minecraft and select the Forge 1.8.9 profile from the drop-down menu. The mods should now be loaded and ready to use in the game.
+
 Dulkir Mod:
 
 Discord Server:
