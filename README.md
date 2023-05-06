@@ -1,7 +1,7 @@
 # Hypixel-Skyblock-Mods
 
 A easy to use guide to install skyblock mods and the best mods (BenC1ark's mod: https://www.youtube.com/watch?v=S0Bsnw9wNXk those are the same mods as in the list)
-I also added some of my own mods (Skyclient-updater / apec / crashpatch / danker skyblock mods / optifine (note: these are not included in the all mods zip seperate download))
+I also added some of my own mods (Skyclient-updater / apec / crashpatch / danker skyblock mods / optifine / dungeons rooms mod (note: these are not included in the all mods zip seperate download))
 
 Dulkir Mod:
 
